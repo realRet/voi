@@ -9,9 +9,9 @@ Terros is the second boss we will be killing. Terros is a stationary boss in the
 
 ## Rockblast
 The second mechanic we have to deal with is Rockblast and Awakened Earth. Rockblast is a simple soak. after the ability has been soaked a few marked players will get the Awakened Earth which will create a stone pillar that needs to be destroyed. To do this players should drop the debuff in groups of 4 so we can easily get rid of them
-![Zones](https://github.com/realRet/voi/blob/main/static/20221213222937.png?raw=true)
+![Zones1](https://github.com/realRet/voi/blob/main/static/20221213222937.png?raw=true)
 As the fight progresses more of players will be targeted by awakened earth so it will look like this
-![Zones](https://github.com/realRet/voi/blob/main/static/20221213223032.png?raw=true)
+![Zones2](https://github.com/realRet/voi/blob/main/static/20221213223032.png?raw=true)
 
 ## Shatering impact
 Shattering impact is a mechanic that needs to be dodge, nothing special
