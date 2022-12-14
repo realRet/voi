@@ -1,7 +1,7 @@
 ---
 title: "Terros"
 date: 2022-12-14T01:18:43+01:00
-draft: true
+draft: false
 ---
 
 Terros is the second boss we will be killing. Terros is a stationary boss in the center of the room, the room gets smaller as we play every 90 seconds the boss will cast Resonating Anniliation which will remove 1/4th of the room after 4 cast we wipe.
