@@ -28,3 +28,5 @@ Molten cleave will target a random player and everyone should move out.
 # Phase 2
 During Phase 2 some mobs spawn with lazer beams in between them. The mobs need to be killed on order to not die (create some space to walk through).  One of them will be marked with skull this is the one that we will kill
 ![step 3](https://github.com/realRet/voi/blob/main/static/20221213221749.png?raw=true)
+
+For more detailed info look on: https://www.wowhead.com/guide/raids/vault-of-the-incarnates/overview#bosses

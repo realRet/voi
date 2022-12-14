@@ -15,3 +15,5 @@ As the fight progresses more of players will be targeted by awakened earth so it
 
 ## Shatering impact
 Shattering impact is a mechanic that needs to be dodge, nothing special
+
+For more detailed info look on: https://www.wowhead.com/npc=190496/terros
