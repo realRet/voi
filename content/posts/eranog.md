@@ -14,10 +14,10 @@ During phase 1 the raid stands behind the boss and wacks it a bunch. While wacki
 
 ### Flamerift
 5 players get targeted by flamerift whenever the debuff expires it will drop some lava pools under the players these need to be dropped behind the raid in the gray circle. Whenever flamerift expires the boss will be moved 10 to 20 yards follwoing the green arrow.
-![step1](/static/20221213220829.png)
+![step1](/20221213220829.png)
 
 Whenever the raid has dropped the debuff it will look something like this
-![step 2](/static/20221213221019.png)
+![step 2](/20221213221019.png)
 
 ### Incinerating Roar
 This mechanic is a healer problem. After its cast it does some raid damage but can be dispelled
@@ -27,4 +27,4 @@ Molten cleave will target a random player and everyone should move out.
 
 # Phase 2
 During Phase 2 some mobs spawn with lazer beams in between them. The mobs need to be killed on order to not die (create some space to walk through).  One of them will be marked with skull this is the one that we will kill
-![step 3](/static/20221213221749.png)
+![step 3](/20221213221749.png)
