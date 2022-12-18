@@ -1,7 +1,7 @@
 ---
 title: "Sennarth"
 date: 2022-12-18T15:56:03+01:00
-draft: true
+draft: false
 ---
 
 Senarth is a heavy movement fight where we will move up some stairs during the boss fight. The fight consist of 2 phases, During phase 1 were moving up the stairs and phase 2 starts as soon as were up stairs. I'll go over the mechanics phase by phase

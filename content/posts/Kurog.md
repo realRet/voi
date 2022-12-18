@@ -1,7 +1,7 @@
 ---
 title: "Kurog"
 date: 2022-12-18T15:56:29+01:00
-draft: true
+draft: false
 ---
 
 During the kurog fight we will have to reposition the boss between different altars. After some time the boss gets charged with elemental energy and will spawn 2 adds (for each alter it has been charging at). Each alter has its own mechanics and ill go over them in the order we will be visiting them.
